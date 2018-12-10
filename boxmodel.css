@@ -1,0 +1,15 @@
+/*
+* Name
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+*{ margin: 0; padding: 0;}
+
+/* Body attributes here */
+
+body { border: dotted aqua; padding: 1em cadetblue; margin: 50px; background-color: azure}
+h1 {text-align: center; height: auto; width: auto}
+p {text-align: center; }
